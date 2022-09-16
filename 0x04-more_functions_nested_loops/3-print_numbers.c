@@ -1,4 +1,4 @@
-#include"main.h"
+#include "main.h"
 
 /**
  * print_numbers - prints numbers
@@ -13,7 +13,8 @@ void print_numbers(void)
 	{
 		_putchar('0' + n);
 		n++;
-	
+
 	}
 	_putchar('\n');
+
 }
